@@ -1,0 +1,53 @@
+{
+  "uid" : "fbf95c46b2faa8e3",
+  "name" : "case_1",
+  "fullName" : "abc_login.LoginCase#case_1",
+  "historyId" : "b82a2ff96b559ec37683566c9a4c98e1",
+  "time" : {
+    "start" : 1623745764694,
+    "stop" : 1623745764694,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "abc_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginCase"
+  }, {
+    "name" : "host",
+    "value" : "renhaodeMBP"
+  }, {
+    "name" : "thread",
+    "value" : "38011-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "abc_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbf95c46b2faa8e3.json",
+  "parameterValues" : [ ]
+}

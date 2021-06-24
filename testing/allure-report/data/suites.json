@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "abc_login",
+    "children" : [ {
+      "name" : "LoginCase",
+      "children" : [ {
+        "name" : "case_1",
+        "uid" : "fbf95c46b2faa8e3",
+        "parentUid" : "a66129f20360c37fca28c37dd37c3f4e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623745764694,
+          "stop" : 1623745764694,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a66129f20360c37fca28c37dd37c3f4e"
+    } ],
+    "uid" : "403169d182fe5d4b5b21eeee7d21b724"
+  } ]
+}

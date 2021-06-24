@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "renhaodeMBP",
+    "children" : [ {
+      "name" : "38011-MainThread",
+      "children" : [ {
+        "name" : "case_1",
+        "uid" : "fbf95c46b2faa8e3",
+        "parentUid" : "38c20d03200bbdae9e26c5acfaadc4e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623745764694,
+          "stop" : 1623745764694,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38c20d03200bbdae9e26c5acfaadc4e5"
+    } ],
+    "uid" : "8c7970ffbee5694b124fbe613a976650"
+  } ]
+}

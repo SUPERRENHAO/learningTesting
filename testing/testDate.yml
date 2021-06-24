@@ -1,16 +1,37 @@
+ # 第一条用例
+ # 存放列表的时候，可以直接使用-[] 加里面的内容
  -
    - 2
    - 2
    - reslut:
-     - add: 4
-     - jian: 0
-     - cheng: 4
-     - div: 1
+      add: 4
+      jian: 0
+      cheng: 4
+      div: 1
+## 第二条用例
  -
    - 0
    - 2
    - reslut:
-     - add: 2
-     - jian: -2
-     - cheng: 0
-     - div: 0
+      add: 2
+      jian: -2
+      cheng: 0
+      div: 0
+## 第三条用例
+ -
+   - -1
+   - 2
+   - reslut:
+      add: 1
+      jian: -3
+      cheng: 0
+      div: -0.5
+## 第四条用例
+ -
+   - 0.1
+   - 0.2
+   - reslut:
+      add: 0.3
+      jian: -0.1
+      cheng: 0
+      div: 0.5
